@@ -1,5 +1,5 @@
 # Nonlinear-Distortion-in-OFDM
-Analysis nonlinear distortion due to a power amplifier in OFDM. 
+Analysis of nonlinear distortion due to a power amplifier in OFDM. 
 
 Main functionalities are OFDM transmitter and receiver, with possibility of over-sampling.
 
